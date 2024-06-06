@@ -16,7 +16,7 @@ export default function HeroSection() {
           Master the arts of music
         </h1>
         <p className="mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto">
-          We're a community of music lovers, passionate about sharing the best
+          We&apos;re a community of music lovers, passionate about sharing the best
           new and emerging artists with the world. Our mission is to curate the
           most talented musicians, producers, and DJs, and provide a platform
           for them to showcase their work.
