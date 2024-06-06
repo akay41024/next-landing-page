@@ -1,5 +1,7 @@
 import FeaturedSection from "@/components/FeaturedSection";
+import Footer from "@/components/Footer";
 import HeroSection from "@/components/HeroSection";
+import InstructorsSection from "@/components/InstructorsSection";
 import ScroollSection from "@/components/ScroollSection";
 import Testimonial from "@/components/Testimonial";
 import UpcomingWebinars from "@/components/UpcomingWebinars";
@@ -12,6 +14,8 @@ export default function Home() {
       <ScroollSection />
       <Testimonial />
       <UpcomingWebinars/>
+      <InstructorsSection/>
+      <Footer/>
     </main>
   );
 }
